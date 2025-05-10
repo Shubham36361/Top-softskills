@@ -1,0 +1,82 @@
+1. Thank You Email
+
+Subject: Thank You for Your Support
+
+Dear Mr. Akhilesh,
+
+I would like to extend my sincere thanks for your invaluable support during the planning and execution of our recent project. Your guidance and timely input played a crucial role in its success.
+
+It was a pleasure working with you, and I look forward to future opportunities for collaboration.
+
+Warm regards,
+Sarah Malik
+Project Coordinator
+Trinity Solutions Ltd.
+s.malik@trinitysolutions.com
+
+2. Letter of Apology
+
+Subject: Apology for Delay in Response
+
+Dear Ms. Prince,
+
+I sincerely apologize for the delay in responding to your inquiry dated May 2nd. We experienced an unexpected backlog that has now been addressed.
+
+We value your time and appreciate your patience. Please rest assured that we are prioritizing your request and will follow up with a detailed response by the end of the day.
+
+Kind regards,
+David Lee
+Client Relations Manager
+Omega Technologies
+d.lee@omegatech.com
+
+3. Reminder Email
+
+Subject: Friendly Reminder: Document Submission Due May 12
+
+Dear Mr. Greshi,
+
+This is a gentle reminder that the signed contract and supporting documents are due by May 12. Submitting these on time will help us proceed with the onboarding process without delays.
+
+Please let me know if you have any questions or need assistance completing the paperwork.
+
+Best regards,
+Linda Zhao
+Administrative Coordinator
+GlobalEdge Enterprises
+l.zhao@globaledge.com
+
+4. Quotation Email
+
+Subject: Quotation for Web Development Services
+
+Dear Mr. Rivera,
+
+Thank you for your interest in our web development services. Please find attached a detailed quotation for the proposed scope of work, valid for 30 days.
+
+If you have any questions or require modifications, feel free to reach out. We would be happy to discuss this further.
+
+Sincerely,
+Andrew Clark
+Sales Executive
+BrightPixel Solutions
+a.clark@brightpixel.com
+
+5. Email of Inquiry for Requesting Information
+
+Subject: Request for Product Specifications and Pricing
+
+Dear Sir/Madam,
+
+I am writing to request detailed information regarding your line of industrial air purifiers, including specifications, pricing, and availability.
+
+We are currently reviewing vendors for a potential procurement and would appreciate a prompt response by May 15.
+
+Thank you in advance for your assistance.
+
+Yours faithfully,
+Nina Desai
+Procurement Officer
+GreenSource Manufacturing
+n.desai@greensource.com
+
